@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Animation.Window.Popup" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/grow_from_top_fixed_width</item>
+        <item name="android:windowExitAnimation">@anim/shrink_from_top_fixed_width</item>
+    </style>
+
+</resources>
